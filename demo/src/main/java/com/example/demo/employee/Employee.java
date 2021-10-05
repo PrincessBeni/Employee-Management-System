@@ -17,7 +17,7 @@ public class Employee {
 
     @GeneratedValue(
             strategy = GenerationType.SEQUENCE,
-            generator = "employee_sequence"
+            generator = "mployeee_sequence"
     )
 
     private Long id;
